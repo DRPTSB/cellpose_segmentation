@@ -13,8 +13,8 @@ Create the environment:
 
 ```bash
 conda env create -f environment.yml
-conda activate cellpose-segmentation
-python -m ipykernel install --user --name cellpose-segmentation
+conda activate cellpose_env
+python -m ipykernel install --user --name cellpose_env
 ```
 
 Launch notebooks:
